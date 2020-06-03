@@ -1,7 +1,7 @@
 {
 "companyName": "Ishtarborisovna",
 "productName": "Runes",
-"productVersion": "1.0",
+"productVersion": "1.1",
 "dataUrl": "BuildRunesMobil.data.unityweb",
 "wasmCodeUrl": "BuildRunesMobil.wasm.code.unityweb",
 "wasmFrameworkUrl": "BuildRunesMobil.wasm.framework.unityweb",
